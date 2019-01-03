@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="karkipytranslator",
+    name="pyspellrecommender",
     version="0.0.1",
     author="Aashish Karki",
     author_email="aashish.y2z@gmail.com",
-    description="A language translator package",
+    description="A spelling checker package",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/karkipy/pyspellrecommender",
