@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyspellrecommender",
-    version="0.0.1",
+    version="0.1.0",
     author="Aashish Karki",
     author_email="aashish.y2z@gmail.com",
     description="A spelling checker package",
