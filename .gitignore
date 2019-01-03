@@ -11,7 +11,7 @@ venvpy/
 __pycache_/
 build/
 dist/
-karkipytranslator.egg-info/
+pyspellrecommender.egg-info/
 # User-specific stuff:
 # .idea/workspace.xml
 # .idea/tasks.xml
